@@ -1,0 +1,41 @@
+Zadanie 2.4:
+Kod:
+int x = 100;
+Console.WriteLine(++x + 2);
+
+Odpowiedź: a
+
+Zadanie 2.5:
+Kod:
+int x = 2, y = 3;
+x *= x + 2;
+y *= y - 1;
+
+Odpowiedź: b, d
+
+Zadanie 2.6:
+Kod:
+int x, y = 4;
+x = y * y - 2;
+x = x - y;
+
+Odpowiedź: a
+
+Zadanie 2.7:
+Kod:
+int x = 1, y = 5;
+x *= y;
+x -= y;
+y++;
+Console.WriteLine(++y);
+
+Odpowiedź: 7
+
+Zadanie 2.8:
+Kod:
+bool x1, y1;
+int x = 1, z = 1;
+x *= y + 1 + z++;
+x1 = y1 = z != 1;
+
+Odpowiedź: a, b
