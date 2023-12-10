@@ -1,0 +1,15 @@
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\bin\Debug\net7.0\klasa_obliczenia.exe
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\bin\Debug\net7.0\klasa_obliczenia.deps.json
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\bin\Debug\net7.0\klasa_obliczenia.runtimeconfig.json
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\bin\Debug\net7.0\klasa_obliczenia.dll
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\bin\Debug\net7.0\klasa_obliczenia.pdb
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.csproj.AssemblyReference.cache
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.dll
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\refint\klasa_obliczenia.dll
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.pdb
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\klasa_obliczenia.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\231210\klasa_obliczenia\klasa_obliczenia\obj\Debug\net7.0\ref\klasa_obliczenia.dll
